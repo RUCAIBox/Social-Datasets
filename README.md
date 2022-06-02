@@ -1,5 +1,5 @@
 # Social-Datasets
-A collection of social datasets
+A series of social recommendation datasets are collected and processed into atomic files for [RecBole-GNN](https://github.com/RUCAIBox/RecBole-GNN).
 
 Datasets information
 
